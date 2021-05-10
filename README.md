@@ -73,7 +73,7 @@ Install the In-memory Web API package from npm with the following command:
 
 Install Angular Material
     `ng add @angular/material`
-    
+
 install Bootsrap for Project 
     `npm install bootstrap`
 
@@ -84,10 +84,6 @@ This project demonstrates how to use Angular HttpClientInMemoryWebApiModule
 An in-memory web api for Angular demos and tests that emulates CRUD operations over a RESTy API.
 
 It intercepts Angular Http and HttpClient requests that would otherwise go to the remote server and redirects them to an in-memory data store that you control.
-
-Demo apps that need to simulate CRUD data persistence operations without a real server. You won't have to build and start a test server.
-
-Whip up prototypes and proofs of concept.
 
 
 ### UI Begins With Home Page 
