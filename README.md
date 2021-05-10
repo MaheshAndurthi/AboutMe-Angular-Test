@@ -96,7 +96,7 @@ Share examples with the community in a web coding environment such as Plunker or
 
 Simulate operations against data collections that aren't yet implemented on your dev/test server. You can pass requests thru to the dev/test server for collections that are supported.
 
-### UI Begins With Search Box
+### UI Begins With Home Page 
 
 The user enters the Home Page text and clicks the Home Tab.
 
