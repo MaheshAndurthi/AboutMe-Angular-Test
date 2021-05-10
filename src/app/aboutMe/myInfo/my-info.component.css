@@ -1,0 +1,16 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+.example-card p{
+  font-size: 16px;
+}
+mat-form-field.mat-form-field {
+  font-size: 16px;
+}
