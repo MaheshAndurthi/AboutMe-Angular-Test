@@ -67,6 +67,14 @@ Html 5
 Bootstrap 5
 RxJS 6
 ```
+#Install the In-memory Web API package from npm with the following command:
+
+`npm install angular-in-memory-web-api --save`
+
+#Install Angular Material
+    `ng add @angular/material`
+    #install Bootsrap for Project 
+    `npm install bootstrap`
 
 ## UI And Program Flow
 
