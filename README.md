@@ -8,6 +8,38 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
+## Table of Contents
+- [About The Author](#about-the-author)
+- [Project Setup](#project-setup)
+  * [Prerequisites](#prerequisites)
+  * [How To Install](#how-to-install)
+  * [How To Run](#how-to-run)
+  * [How To Run Unit Tests](#how-to-run-unit-tests)
+  * [How To Run End To End Tests](#how-to-run-end-to-end-tests)
+
+## About The Author
+
+**Mahesh Andhurthi** is a Angular Developer for large scale web applications at several Fortune companies.
+
+I am a good expert in **Html**, **Css**, and **Bootstrap** and **Angular** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
