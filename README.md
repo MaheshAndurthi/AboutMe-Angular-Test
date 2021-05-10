@@ -57,6 +57,17 @@ Navigate to `http://localhost:4200/`.
 
 The browser will automatically reload if you change any of the source files.
 
+
+## Running Example
+
+### Screen Shot
+
+![aboutMe-angular-test](src/assets/images/Screenshot_1.jpg)
+![aboutMe-angular-test](src/assets/images/Screenshot_2.jpg)
+
+
+
+
 ## Software Libraries Used
 
 The following major software libraries are used:
