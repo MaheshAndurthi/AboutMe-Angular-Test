@@ -81,6 +81,41 @@ Bootstrap 5
 RxJS 6
 ```
 
+## UI And Program Flow
+
+This project demonstrates how to use Angular HttpClientInMemoryWebApiModule
+An in-memory web api for Angular demos and tests that emulates CRUD operations over a RESTy API.
+
+It intercepts Angular Http and HttpClient requests that would otherwise go to the remote server and redirects them to an in-memory data store that you control.
+
+Demo apps that need to simulate CRUD data persistence operations without a real server. You won't have to build and start a test server.
+
+Whip up prototypes and proofs of concept.
+
+Share examples with the community in a web coding environment such as Plunker or CodePen. Create Angular issues and StackOverflow answers supported by live code.
+
+Simulate operations against data collections that aren't yet implemented on your dev/test server. You can pass requests thru to the dev/test server for collections that are supported.
+
+### UI Begins With Search Box
+
+The user enters the Home Page text and clicks the Home Tab.
+
+in this Home page displayed Note As How we Follows  
+
+### Two Main Views For Results
+
+#### Home Page 
+
+After clicking the Home Page , a list of Test Content titles is shown. .
+
+
+
+##### MyInfo Page 
+
+In this MyInfo Page Displayed Angular Mattrial card with web api data 
+
+And we can see Formgrop Angular mattrial feilds 
+
 
 
 
@@ -119,38 +154,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-## UI And Program Flow
-
-This project demonstrates how to use Angular HttpClientInMemoryWebApiModule
-An in-memory web api for Angular demos and tests that emulates CRUD operations over a RESTy API.
-
-It intercepts Angular Http and HttpClient requests that would otherwise go to the remote server and redirects them to an in-memory data store that you control.
-
-Demo apps that need to simulate CRUD data persistence operations without a real server. You won't have to build and start a test server.
-
-Whip up prototypes and proofs of concept.
-
-Share examples with the community in a web coding environment such as Plunker or CodePen. Create Angular issues and StackOverflow answers supported by live code.
-
-Simulate operations against data collections that aren't yet implemented on your dev/test server. You can pass requests thru to the dev/test server for collections that are supported.
-
-### UI Begins With Search Box
-
-The user enters the Home Page text and clicks the Home Tab.
-
-in this Home page displayed Note As How we Follows  
-
-### Two Main Views For Results
-
-#### Home Page 
-
-After clicking the Home Page , a list of Test Content titles is shown. .
-
-
-
-##### MyInfo Page 
-
-In this MyInfo Page Displayed Angular Mattrial card with web api data 
-
-And we can see Formgrop Angular mattrial feilds 
