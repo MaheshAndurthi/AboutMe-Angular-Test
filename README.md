@@ -14,9 +14,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   * [Prerequisites](#prerequisites)
   * [How To Install](#how-to-install)
   * [How To Run](#how-to-run)
-  * [How To Run Unit Tests](#how-to-run-unit-tests)
   * [How To Run End To End Tests](#how-to-run-end-to-end-tests)
-
+- [Software Libraries Used](#software-libraries-used)
 ## About The Author
 
 **Mahesh Andhurthi** is a Angular Developer for large scale web applications at several Fortune companies.
@@ -49,6 +48,30 @@ Run `ng serve` for a dev server.
 Navigate to `http://localhost:4200/`.
 
 The browser will automatically reload if you change any of the source files.
+
+### How To Run End To End Tests
+
+To run the unit tests using Angular *cli*, you need to stop the server.
+ 
+If the server is running, stop the server from the terminal window by pressing *Control-C*.
+
+To run the e2e tests using Angular cli, Run the following command in the terminal window.
+
+`ng e2e -- --protractor-config=e2e/protractor-ci.conf.js`
+
+And if you're running on Windows,
+include the `--disable-gpu` flag. See [crbug.com/737678](https://bugs.chromium.org/p/chromium/issues/detail?id=737678).
+
+## Software Libraries Used
+
+The following major software libraries are used:
+```text
+Angular 11
+Angular Material 11
+Html 5
+Bootstrap 5
+RxJS 6
+```
 
 
 
